@@ -1,0 +1,94 @@
+body {
+  background-color: #0b0320 !important;
+  /* background-color: blue!important; */
+  box-sizing: border-box;
+}
+.footer {
+  background-color: goldenrod !important ;
+  height: 100px;
+  margin-bottom: 0;
+}
+
+.cards {
+  width: 25rem;
+  height: 35rem;
+  border: solid goldenrod !important;
+  margin-left: 3vw;
+  margin-top: 5vw;
+}
+.card-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 3rem;
+  margin-bottom: 30px;
+  flex-wrap: wrap;
+}
+p {
+  font-size: 1.5rem;
+}
+#demo {
+  width: 100%;
+}
+.c_img {
+  width: 100%;
+  height: 50vw;
+}
+.foot {
+  background-color: rgba(54, 26, 100, 0.945);
+  height: 60px;
+}
+pre {
+  font-size: 2rem;
+}
+article {
+  margin-top: 100px;
+  margin-bottom: 30px;
+}
+.card-img {
+  width: 355px;
+  height: 200px;
+}
+
+a {
+  text-decoration: none !important;
+  color: rgb(24, 4, 97) !important;
+}
+.brand {
+  color: gold !important;
+  font-family: "Segoe UI", Tahoma, "Geneva", Verdana, sans-serif;
+}
+.n_link {
+  color: burlywood !important;
+}
+.baner {
+  margin-top: 20px;
+  width: 1200px;
+  height: 600px;
+}
+.spinner {
+  display: flex !important;
+  justify-content: center !important;
+}
+.body_market {
+  background-image: url(./img/shutdown-economy.jpg);
+}
+.news-container {
+  background-color: rgba(0, 0, 0, 0.322);
+  height: 100vh !important;
+}
+.body_news_txt {
+  background-color: #0f0627;
+}
+h1 {
+  margin-top: 50px !important;
+  margin-bottom: 25px !important;
+}
+.mylink {
+  color: coral;
+  font-size: 1.5rem;
+}
+.mylink:hover {
+  font-size: 1.8rem;
+  border-radius: 10px 10px 10px 10px !important;
+  transition: ease 2s;
+}
